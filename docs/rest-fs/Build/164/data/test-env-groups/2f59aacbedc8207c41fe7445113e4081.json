@@ -1,0 +1,1 @@
+{"id":"2f59aacbedc8207c41fe7445113e4081","fullName":"index.test.js#rest-fs plugin filesystem operations DELETE /delete should delete a directory recursively","name":"should delete a directory recursively","status":"passed","testResultsByEnv":{"default":"96c13303219e70b6774b4cb0c63b3d53"}}

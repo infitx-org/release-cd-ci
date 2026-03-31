@@ -1,0 +1,1 @@
+{"id":"d1dd49f9d9bdf767f4f119b3c1522b0c","fullName":"index.test.js#match YAML case #79: unlike([\"baz\", \"qux\"],[/bar/, /foo/])","name":"YAML case #79: unlike([\"baz\", \"qux\"],[/bar/, /foo/])","status":"passed","testResultsByEnv":{"default":"0008d100335585064f62385e351f2b38"}}

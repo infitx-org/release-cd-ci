@@ -1,0 +1,1 @@
+{"id":"086ffbc3ec4d725bd5bd1e34d18a0370","fullName":"index.test.js#match YAML case #57: like({a: 2026-03-14T16:42:01.592Z},{a: {max: \"now+1d\"}})","name":"YAML case #57: like({a: 2026-03-14T16:42:01.592Z},{a: {max: \"now+1d\"}})","status":"passed","testResultsByEnv":{"default":"b2c39be64892ec2f04fdb76cf37bc07d"}}

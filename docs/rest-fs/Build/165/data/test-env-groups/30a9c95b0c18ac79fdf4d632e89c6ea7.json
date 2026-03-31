@@ -1,0 +1,1 @@
+{"id":"30a9c95b0c18ac79fdf4d632e89c6ea7","fullName":"index.test.js#rest-fs plugin security should prevent path traversal attacks","name":"should prevent path traversal attacks","status":"passed","testResultsByEnv":{"default":"b633d4dfd893135d317677c2f1320e71"}}

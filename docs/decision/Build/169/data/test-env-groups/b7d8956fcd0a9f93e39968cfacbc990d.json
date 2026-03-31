@@ -1,0 +1,1 @@
+{"id":"b7d8956fcd0a9f93e39968cfacbc990d","fullName":"index.test.js#match YAML case #77: like({a: [2, 3, 4]},{a: {max: 2}})","name":"YAML case #77: like({a: [2, 3, 4]},{a: {max: 2}})","status":"passed","testResultsByEnv":{"default":"66bb44a4a35496ac4d0a074a879d0293"}}

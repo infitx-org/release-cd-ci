@@ -1,0 +1,1 @@
+{"id":"bbccc43a4310f20aee6fd9407e7bd62e","fullName":"index.test.js#rest-fs plugin process cleanup should terminate debug proxy when server stops","name":"should terminate debug proxy when server stops","status":"passed","testResultsByEnv":{"default":"f3fe6ca98a8a7ab177671aed5b86f91c"}}

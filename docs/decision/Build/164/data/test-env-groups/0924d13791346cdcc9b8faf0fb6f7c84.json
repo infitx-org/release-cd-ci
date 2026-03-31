@@ -1,0 +1,1 @@
+{"id":"0924d13791346cdcc9b8faf0fb6f7c84","fullName":"index.test.js#match YAML case #38: unlike(5,{not: {min: 5, max: 10}})","name":"YAML case #38: unlike(5,{not: {min: 5, max: 10}})","status":"passed","testResultsByEnv":{"default":"c24a664e5f2ed1538ee78fa7a9273be0"}}

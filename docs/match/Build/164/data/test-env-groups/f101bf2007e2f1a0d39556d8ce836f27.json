@@ -1,0 +1,1 @@
+{"id":"f101bf2007e2f1a0d39556d8ce836f27","fullName":"index.test.js#match YAML case #76: like({a: {b: 2, c: 3}},{a: {b: 2}})","name":"YAML case #76: like({a: {b: 2, c: 3}},{a: {b: 2}})","status":"passed","testResultsByEnv":{"default":"f00418f011d5f3d2554ba7a58f9d6af6"}}

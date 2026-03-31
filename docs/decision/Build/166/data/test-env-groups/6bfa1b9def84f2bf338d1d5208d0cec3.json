@@ -1,0 +1,1 @@
+{"id":"6bfa1b9def84f2bf338d1d5208d0cec3","fullName":"index.test.js#match YAML case #104: like(\"c\",[{min: \"a\", max: \"e\"}, {min: \"k\", max: \"o\"}])","name":"YAML case #104: like(\"c\",[{min: \"a\", max: \"e\"}, {min: \"k\", max: \"o\"}])","status":"passed","testResultsByEnv":{"default":"3ec1806c28294571f0e88413f71b3c0f"}}

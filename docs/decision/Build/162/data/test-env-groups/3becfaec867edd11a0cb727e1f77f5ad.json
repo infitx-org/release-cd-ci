@@ -1,0 +1,1 @@
+{"id":"3becfaec867edd11a0cb727e1f77f5ad","fullName":"index.test.js#match YAML case #36: like({a: 5},{a: {not: [1, 2, 3]}})","name":"YAML case #36: like({a: 5},{a: {not: [1, 2, 3]}})","status":"passed","testResultsByEnv":{"default":"5860e03524a00fb9a4c8770ed07e1f19"}}

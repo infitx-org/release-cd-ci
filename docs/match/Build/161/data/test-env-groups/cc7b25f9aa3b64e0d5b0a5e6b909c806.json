@@ -1,0 +1,1 @@
+{"id":"cc7b25f9aa3b64e0d5b0a5e6b909c806","fullName":"index.test.js#match YAML case #6: unlike({a: 1},{a: [null, false]})","name":"YAML case #6: unlike({a: 1},{a: [null, false]})","status":"passed","testResultsByEnv":{"default":"3db1668481ce83494a96bb5f1cbc8374"}}

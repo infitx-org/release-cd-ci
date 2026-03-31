@@ -1,0 +1,1 @@
+{"id":"9fb7a7025ad9d89f42f261af4d3f89ce","fullName":"index.test.js#match YAML case #119: unlike({type: \"transfer\", note: \"utilities\"},{type: \"transfer\", note: /rent/})","name":"YAML case #119: unlike({type: \"transfer\", note: \"utilities\"},{type: \"transfer\", note: /rent/})","status":"passed","testResultsByEnv":{"default":"79d0e5d68a428e767e386b55d05e0da7"}}

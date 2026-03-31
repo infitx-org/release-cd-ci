@@ -1,0 +1,1 @@
+{"id":"f6d3d1c43e50a199d3d18032bcaee2ed","fullName":"index.test.js#match YAML case #122: like({type: \"refund\", to: \"Alice\", amount: 50},{type: \"refund\", to: \"Alice\"})","name":"YAML case #122: like({type: \"refund\", to: \"Alice\", amount: 50},{type: \"refund\", to: \"Alice\"})","status":"passed","testResultsByEnv":{"default":"7f63ae3bfa091220f9c1c0d1ef8263f3"}}

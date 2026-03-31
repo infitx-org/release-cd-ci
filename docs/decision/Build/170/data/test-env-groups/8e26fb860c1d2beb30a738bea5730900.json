@@ -1,0 +1,1 @@
+{"id":"8e26fb860c1d2beb30a738bea5730900","fullName":"index.test.js#match YAML case #79: like([\"foo\", \"bar\"],[/bar/, /foo/])","name":"YAML case #79: like([\"foo\", \"bar\"],[/bar/, /foo/])","status":"passed","testResultsByEnv":{"default":"d2843665180d6041f53183e16f3d8025"}}

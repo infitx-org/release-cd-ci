@@ -1,0 +1,1 @@
+{"id":"dc12ae27fd7029513384ec08bf779547","fullName":"index.test.js#match YAML case #119: like({type: \"transfer\", note: \"June rent\"},{type: \"transfer\", note: /rent/})","name":"YAML case #119: like({type: \"transfer\", note: \"June rent\"},{type: \"transfer\", note: /rent/})","status":"passed","testResultsByEnv":{"default":"c5deb0b305554f693b919780c2358051"}}

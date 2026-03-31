@@ -1,0 +1,1 @@
+{"id":"aa6341246e234ed2b1a920d0855c3ef6","fullName":"index.test.js#rest-fs plugin debug proxy operations GET /debug-proxy/status should return status when proxy is not running","name":"should return status when proxy is not running","status":"passed","testResultsByEnv":{"default":"d6892f32b94964fb471494134370d64a"}}
